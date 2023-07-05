@@ -1,0 +1,15 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+*.cs linguist-language=csharp
+*.cpp linguist-language=C++
+*.h linguist-language=C
+*.c linguist-language=C
+*.rc linguist-language=Assembly
+
+The-Blow-Eagle-stealer/dependencies/curl/include/curl/*		linguist-vendored
+The-Blow-Eagle-stealer/dependencies/libzip/*		linguist-vendored
+The-Blow-Eagle-stealer/dependencies/sqlite3_x86-windows/include/*		linguist-vendored
+The-Blow-Eagle-stealer/dependencies/openssl/*		linguist-vendored
+The-Blow-Eagle-stealer/dependencies/nlohmann/*		linguist-vendored
+The-Blow-Eagle-stealer/dependencies/libsodium_x86-windows/include/sodium/*		linguist-vendored
+The-Blow-Eagle-stealer/dependencies/dirent_x86-windows/include/*		linguist-vendored
