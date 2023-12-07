@@ -2,6 +2,7 @@
 * text=auto
 *.cs linguist-language=csharp
 *.cpp linguist-language=C++
+*.js linguist-language=JavaScript
 *.h linguist-language=C
 *.c linguist-language=C
 *.rc linguist-language=Assembly
