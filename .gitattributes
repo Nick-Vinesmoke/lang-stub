@@ -6,5 +6,3 @@
 *.h linguist-language=C
 *.c linguist-language=C
 *.rc linguist-language=Assembly
-
-The-Blow-Eagle-stealer/dependencies/curl/include/curl/*		linguist-vendored
